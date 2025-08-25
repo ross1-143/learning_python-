@@ -1,7 +1,6 @@
 cost = input("Enter the price of the product:")
 disc = int(cost)*10/100
-print("Total amount:", int(cost) - int(disc))
-
+print("Total amount:", cost - disc)
 
 
 
